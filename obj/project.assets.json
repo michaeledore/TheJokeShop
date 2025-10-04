@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stanl\\Desktop\\Nbcc2025\\MVC\\TheJokeShop\\TheJokeShop.csproj",
+      "projectUniqueName": "C:\\Users\\stanl\\Desktop\\Nbcc2025\\MVC\\Assignment2\\TheJokeShop\\TheJokeShop.csproj",
       "projectName": "TheJokeShop",
-      "projectPath": "C:\\Users\\stanl\\Desktop\\Nbcc2025\\MVC\\TheJokeShop\\TheJokeShop.csproj",
+      "projectPath": "C:\\Users\\stanl\\Desktop\\Nbcc2025\\MVC\\Assignment2\\TheJokeShop\\TheJokeShop.csproj",
       "packagesPath": "C:\\Users\\stanl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stanl\\Desktop\\Nbcc2025\\MVC\\TheJokeShop\\obj\\",
+      "outputPath": "C:\\Users\\stanl\\Desktop\\Nbcc2025\\MVC\\Assignment2\\TheJokeShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
