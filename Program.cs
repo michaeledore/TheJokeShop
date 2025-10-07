@@ -15,8 +15,12 @@ namespace TheJokeShop
               options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
             
             );
+           // builder.Services.AddDbContext<CategoriesContext>(options =>
+           //  options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 
-           
+           //);
+
+
 
             var app = builder.Build();
 

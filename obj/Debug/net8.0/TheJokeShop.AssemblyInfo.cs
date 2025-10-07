@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheJokeShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1260e57f4fe18a14fdb8b82ec781d1ee5f01b35e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1cda6e34307a780888e58d42bdfccd2c9d9a3f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheJokeShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheJokeShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
